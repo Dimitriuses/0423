@@ -1,2 +1,2 @@
 #!/bin/bash
-additne
+echo "additne"
